@@ -10,20 +10,20 @@
     <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="styles/bootstrap-social.css" rel="stylesheet">
-    <link href="styles/mystyles.css" rel="stylesheet">
-	<link href="styles/chosen.css" rel="stylesheet">
-  	<link href="styles/chosen-spinner.css" rel="stylesheet">
+    <link href="/styles/bootstrap-social.css" rel="stylesheet">
+    <link href="/styles/mystyles.css" rel="stylesheet">
+	<link href="/styles/chosen.css" rel="stylesheet">
+  	<link href="/styles/chosen-spinner.css" rel="stylesheet">
 	
 		<!-- Jquery -->
-	<script src="libs/jquery-3.1.0.min.js"></script>
+	<script src="/libs/jquery-3.1.0.min.js"></script>
 	<!-- Chosen -->
-	<script src="libs/chosen.jquery.min.js"></script>	
-	<script src="libs/chosen.jquery.js"></script>
+	<script src="/libs/chosen.jquery.min.js"></script>	
+	<script src="/libs/chosen.jquery.js"></script>
     <!-- AngularJS -->
     <script src="bower_components/angular/angular.min.js"></script>
-	<script src="libs/angular-chosen.min.js"></script>
-    <script src="scripts/app.js"></script>
+	<script src="/libs/angular-chosen.min.js"></script>
+    <script src="/scripts/app.js"></script>
 	
 	  <style>
     select.localytics-chosen {
